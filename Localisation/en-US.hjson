@@ -1,0 +1,135 @@
+﻿Mods: {
+	RecurrenceMod: {
+		Bestiary: {
+		
+		}
+
+		BiomeName: {
+			SkyPalaceBiome: "Sky Palace"
+		}
+
+		BuffName: {
+		
+		}
+
+		BuffDescription: {
+			
+		}
+
+		Config: {
+		
+		}
+
+		Common: {
+		
+		}
+
+		Currencies: {
+		
+		}
+
+		DamageClassName: {
+		
+		}
+
+		Dialogue: {
+		
+		}
+
+		ItemName: {
+			SkyliteBlock: "Skylite Block"
+			SkyliteWall: "Skylite Wall"
+			SkyliteColumn: "Skylite Column"
+			SkyliteWorkBench: "Skylite Work Bench"
+			SkylitePlatform: "Skylite Platform"
+			SkyliteBed: "Skylite Bed"
+			SkyliteBathtub: "Skylite Bathtub"
+			SkyliteBookcase: "Skylite Bookcase"
+			SkyliteCandelabra: "Skylite Candelabra"
+			SkyliteCandle: "Skylite Candle"
+			SkyliteChair: "Skylite Chair"
+			SkyliteClock: "Skylite Clock"
+			SkyliteDresser: "Skylite Dresser"
+			SkyliteLamp: "Skylite Lamp"
+			SkyliteLantern: "Skylite Lantern"
+			SkyliteSink: "Skylite Sink"
+			SkyliteSofa: "Skylite Sofa"
+			SkyliteTable: "Skylite Table"
+			SkyliteToilet: "Skylite Toilet"
+			SkyliteConstruct: "Skylite Constructor"
+
+			EarthElementOre: "Earthstone Ore"
+			FireElementOre: "Firestone Ore"
+			WaterElementOre: "Waterstone Ore"
+			WindElementOre: "Windstone Ore"
+
+			EarthElementBar: "Earthstone Bar"
+			FireElementBar: "Firestone Bar"
+			WaterElementBar: "Waterstone Bar"
+			WindElementBar: "Windstone Bar"
+
+			WaterstoneHood: "Waterstone Hood"
+			WaterstoneShirt: "Waterstone Shirt"
+			WaterstonePants: "Waterstone Pants"
+
+			EarthstoneHelmet: "Earthstone Helmet"
+			EarthstoneMail: "Earthstone Mail"
+			EarthstoneGreaves: "Earthstone Greaves"
+
+		}
+
+		ItemSetBonus:{
+			Waterstone: "20% reduced mana usage"
+			Earthstone: "Increases whip range by 45% and speed by 40%\nIncreases minion damage by 17%"
+		}
+
+		ItemTooltip: {
+			SkyliteConstructor: "Used for Special Crafting"
+
+
+			WaterstoneHood: "Increases maximum mana by 20\n7% increased magic damage"
+			WaterstoneShirt: "Increases maximum mana by 40\n7% increased magic critical strike chance"
+			WaterstonePants: "Increases maximum mana by 20\n7% increased magic critical strike chance"
+
+			EarthstoneHelmet: "Increases minion damage by 9%"
+			EarthstoneMail: "Increases your max number of minions by 2"
+			EarthstoneGreaves: "Increases minions damage by 9%"
+
+
+		}
+
+		MapObject: {
+			RecurrenceBeds:"Bed"
+			RecurrenceBathtubs:"Bathtub"
+			RecurrenceBookcases:"Bookcase"
+			RecurrenceCandelabras:"Candelabra"
+			RecurrenceCandles:"Candle"
+			RecurrenceChairs:"Chair"
+			RecurrenceChandeliers:"Chandelier"
+			RecurrenceClocks:"Clock"
+			RecurrenceDressers:"Dresser"
+			RecurrenceLamps:"Lamp"
+			RecurrenceLanterns:"Lantern"
+			RecurrenceSinks:"Sink"
+			RecurrenceSofas:"Sofa"
+			RecurrenceTables:"Table"
+			RecurrenceToilets:"Toilet"
+			RecurrenceWorkBenches:"Work Bench"
+			RecurrenceClosedDoors:"Door"
+			RecurrenceOpenDoors:"Door"
+			RecurrenceTorches:"Torch"
+			RecurrencePlatforms:"Platform"
+			
+			SkyliteConstructor:"Skylite Constructor"
+
+			EarthElementOre: "Earthstone Ore"
+			FireElementOre: "Firestone Ore"
+			WaterElementOre: "Waterstone Ore"
+			WindElementOre: "Windstone Ore"
+		}
+
+		ProjectileNames: {
+			BlazingWhip: "Blazing Whip"
+		}
+	}
+}
